@@ -1,5 +1,5 @@
 async function getAnswerFromAPI(question) {
-    const apiUrl = 'https://raft-log-containerapp.livelygrass-aacb0084.eastus2.azurecontainerapps.io/answer/';
+    const apiUrl = 'https://enterpriseai-app.yellowbush-e4c2cb93.southeastasia.azurecontainerapps.io/answer/';
 
     try {
         console.log('Sending question to API:', question);
